@@ -1,4 +1,4 @@
-const BASE_URL = 'http://';
+const BASE_URL = 'http://127.0.0.1:6100';
 
 export const API = {
   LOOKUP: `${BASE_URL}/users/lookup`,

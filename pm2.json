@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "naweki-frontend",
+      "script": "npm",
+      "args" : "run prod"
+    }
+  ]
+}
